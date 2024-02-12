@@ -74,3 +74,11 @@ Depois de treinado, o modelo pode ser usado para classificar novas imagens. Bast
 **Boa sorte!**
 
 <hr>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Keras_fashion_mnist_dropout}/count.svg" /></p> 
+<br>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>

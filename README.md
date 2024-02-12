@@ -1,6 +1,10 @@
 # <font color=blue><strong>Formação de Ciência de Dados</strong></font>
 ## <font color=red><strong>Introdução ao Keras e guia para iniciantes: Classificando roupas com redes neurais</strong></font>
 ### <Strong>Colaboração: Adriano Santos</strong>
+<br>
+
+![_72225c06-fa18-484b-b2a9-f2149d9c9373](https://github.com/Adriano1976/Keras_fashion_mnist_dropout/assets/17755195/63188ffb-823a-472b-b835-7d1469281c0e)
+
 
 **Seja bem-vindo ao mundo da inteligência artificial!** Este guia te mostrará como construir e treinar um modelo de rede neural para classificar imagens de roupas usando o `TensorFlow`. 
 

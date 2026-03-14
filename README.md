@@ -79,10 +79,10 @@ Depois de treinado, o modelo pode ser usado para classificar novas imagens. Bast
 
 <hr>
 
+<br></br>
 <div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Keras_fashion_mnist_dropout}/count.svg" /></p> 
-<br>  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+  <p><b><h3> Contagem de visitantes </h3></b></p>  
+  <img src="https://vbr.nathanchung.dev/badge?page_id=Adriano1976/Keras_fashion_mnist_dropout" style="height: 30px;" />
+   <br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
 </div>
